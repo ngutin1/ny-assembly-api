@@ -223,10 +223,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Special thanks to the New York State Assembly for providing public access to legislative transcripts.
 
-## Contact
-
-**Project Maintainer**: Nick Gutin
-
 
 ---
 
