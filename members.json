@@ -1,0 +1,1890 @@
+[
+    {
+        "sessionMemberId": 1643,
+        "shortName": "ABBATE",
+        "sessionYear": 2021,
+        "districtCode": 49,
+        "alternate": false,
+        "memberId": 502
+    },
+    {
+        "sessionMemberId": 1644,
+        "shortName": "ABINANTI",
+        "sessionYear": 2021,
+        "districtCode": 92,
+        "alternate": false,
+        "memberId": 622
+    },
+    {
+        "sessionMemberId": 2411,
+        "shortName": "ANDERSON",
+        "sessionYear": 2025,
+        "districtCode": 31,
+        "alternate": false,
+        "memberId": 1459
+    },
+    {
+        "sessionMemberId": 1320,
+        "shortName": "ARROYO",
+        "sessionYear": 2019,
+        "districtCode": 84,
+        "alternate": false,
+        "memberId": 536
+    },
+    {
+        "sessionMemberId": 1646,
+        "shortName": "ASHBY",
+        "sessionYear": 2021,
+        "districtCode": 107,
+        "alternate": false,
+        "memberId": 1151
+    },
+    {
+        "sessionMemberId": 2103,
+        "shortName": "AUBRY",
+        "sessionYear": 2023,
+        "districtCode": 35,
+        "alternate": false,
+        "memberId": 460
+    },
+    {
+        "sessionMemberId": 2500,
+        "shortName": "BARCLAY",
+        "sessionYear": 2025,
+        "districtCode": 120,
+        "alternate": false,
+        "memberId": 574
+    },
+    {
+        "sessionMemberId": 1649,
+        "shortName": "BARNWELL",
+        "sessionYear": 2021,
+        "districtCode": 30,
+        "alternate": false,
+        "memberId": 1119
+    },
+    {
+        "sessionMemberId": 2486,
+        "shortName": "BARRETT",
+        "sessionYear": 2025,
+        "districtCode": 106,
+        "alternate": false,
+        "memberId": 625
+    },
+    {
+        "sessionMemberId": 1651,
+        "shortName": "BARRON",
+        "sessionYear": 2021,
+        "districtCode": 60,
+        "alternate": false,
+        "memberId": 493
+    },
+    {
+        "sessionMemberId": 2462,
+        "shortName": "BENEDETTO",
+        "sessionYear": 2025,
+        "districtCode": 82,
+        "alternate": false,
+        "memberId": 534
+    },
+    {
+        "sessionMemberId": 2422,
+        "shortName": "BICHOTTE HERMELYN",
+        "sessionYear": 2025,
+        "districtCode": 42,
+        "alternate": false,
+        "memberId": 898
+    },
+    {
+        "sessionMemberId": 1372,
+        "shortName": "BLAKE",
+        "sessionYear": 2019,
+        "districtCode": 79,
+        "alternate": false,
+        "memberId": 899
+    },
+    {
+        "sessionMemberId": 2497,
+        "shortName": "BLANKENBUSH",
+        "sessionYear": 2025,
+        "districtCode": 117,
+        "alternate": false,
+        "memberId": 631
+    },
+    {
+        "sessionMemberId": 2478,
+        "shortName": "BRABENEC",
+        "sessionYear": 2025,
+        "districtCode": 98,
+        "alternate": false,
+        "memberId": 908
+    },
+    {
+        "sessionMemberId": 2406,
+        "shortName": "BRAUNSTEIN",
+        "sessionYear": 2025,
+        "districtCode": 26,
+        "alternate": false,
+        "memberId": 610
+    },
+    {
+        "sessionMemberId": 2518,
+        "shortName": "BRONSON",
+        "sessionYear": 2025,
+        "districtCode": 138,
+        "alternate": false,
+        "memberId": 633
+    },
+    {
+        "sessionMemberId": 2392,
+        "shortName": "BROWN K",
+        "sessionYear": 2025,
+        "districtCode": 12,
+        "alternate": false,
+        "memberId": 1461
+    },
+    {
+        "sessionMemberId": 1348,
+        "shortName": "BUCHWALD",
+        "sessionYear": 2019,
+        "districtCode": 93,
+        "alternate": false,
+        "memberId": 654
+    },
+    {
+        "sessionMemberId": 2194,
+        "shortName": "BURGOS",
+        "sessionYear": 2023,
+        "districtCode": 85,
+        "alternate": false,
+        "memberId": 1463
+    },
+    {
+        "sessionMemberId": 2522,
+        "shortName": "BURKE",
+        "sessionYear": 2025,
+        "districtCode": 142,
+        "alternate": false,
+        "memberId": 1254
+    },
+    {
+        "sessionMemberId": 2499,
+        "shortName": "BUTTENSCHON",
+        "sessionYear": 2025,
+        "districtCode": 119,
+        "alternate": false,
+        "memberId": 1249
+    },
+    {
+        "sessionMemberId": 1660,
+        "shortName": "BYRNE",
+        "sessionYear": 2021,
+        "districtCode": 94,
+        "alternate": false,
+        "memberId": 1123
+    },
+    {
+        "sessionMemberId": 2113,
+        "shortName": "BYRNES",
+        "sessionYear": 2023,
+        "districtCode": 133,
+        "alternate": false,
+        "memberId": 1252
+    },
+    {
+        "sessionMemberId": 1662,
+        "shortName": "CAHILL",
+        "sessionYear": 2021,
+        "districtCode": 103,
+        "alternate": false,
+        "memberId": 551
+    },
+    {
+        "sessionMemberId": 2424,
+        "shortName": "CARROLL R",
+        "sessionYear": 2025,
+        "districtCode": 44,
+        "alternate": false,
+        "memberId": 1122
+    },
+    {
+        "sessionMemberId": 2516,
+        "shortName": "CLARK",
+        "sessionYear": 2025,
+        "districtCode": 136,
+        "alternate": false,
+        "memberId": 1460
+    },
+    {
+        "sessionMemberId": 2427,
+        "shortName": "COLTON",
+        "sessionYear": 2025,
+        "districtCode": 47,
+        "alternate": false,
+        "memberId": 500
+    },
+    {
+        "sessionMemberId": 2412,
+        "shortName": "COOK",
+        "sessionYear": 2025,
+        "districtCode": 32,
+        "alternate": false,
+        "memberId": 457
+    },
+    {
+        "sessionMemberId": 1440,
+        "shortName": "CRESPO",
+        "sessionYear": 2019,
+        "districtCode": 85,
+        "alternate": false,
+        "memberId": 537
+    },
+    {
+        "sessionMemberId": 1446,
+        "shortName": "CROUCH",
+        "sessionYear": 2019,
+        "districtCode": 122,
+        "alternate": false,
+        "memberId": 557
+    },
+    {
+        "sessionMemberId": 2419,
+        "shortName": "CRUZ",
+        "sessionYear": 2025,
+        "districtCode": 39,
+        "alternate": false,
+        "memberId": 1242
+    },
+    {
+        "sessionMemberId": 2101,
+        "shortName": "CURRAN",
+        "sessionYear": 2023,
+        "districtCode": 21,
+        "alternate": false,
+        "memberId": 607
+    },
+    {
+        "sessionMemberId": 1668,
+        "shortName": "CUSICK",
+        "sessionYear": 2021,
+        "districtCode": 63,
+        "alternate": false,
+        "memberId": 516
+    },
+    {
+        "sessionMemberId": 1669,
+        "shortName": "CYMBROWITZ",
+        "sessionYear": 2021,
+        "districtCode": 45,
+        "alternate": false,
+        "memberId": 498
+    },
+    {
+        "sessionMemberId": 1400,
+        "shortName": "D'URSO",
+        "sessionYear": 2019,
+        "districtCode": 16,
+        "alternate": false,
+        "memberId": 1130
+    },
+    {
+        "sessionMemberId": 2119,
+        "shortName": "DARLING",
+        "sessionYear": 2023,
+        "districtCode": 18,
+        "alternate": false,
+        "memberId": 1240
+    },
+    {
+        "sessionMemberId": 2433,
+        "shortName": "DAVILA",
+        "sessionYear": 2025,
+        "districtCode": 53,
+        "alternate": false,
+        "memberId": 655
+    },
+    {
+        "sessionMemberId": 1672,
+        "shortName": "DE LA ROSA",
+        "sessionYear": 2021,
+        "districtCode": 72,
+        "alternate": false,
+        "memberId": 1129
+    },
+    {
+        "sessionMemberId": 1293,
+        "shortName": "DENDEKKER",
+        "sessionYear": 2019,
+        "districtCode": 34,
+        "alternate": false,
+        "memberId": 459
+    },
+    {
+        "sessionMemberId": 2383,
+        "shortName": "DESTEFANO",
+        "sessionYear": 2025,
+        "districtCode": 3,
+        "alternate": false,
+        "memberId": 1238
+    },
+    {
+        "sessionMemberId": 2122,
+        "shortName": "DICKENS",
+        "sessionYear": 2023,
+        "districtCode": 70,
+        "alternate": false,
+        "memberId": 1128
+    },
+    {
+        "sessionMemberId": 2434,
+        "shortName": "DILAN",
+        "sessionYear": 2025,
+        "districtCode": 54,
+        "alternate": false,
+        "memberId": 900
+    },
+    {
+        "sessionMemberId": 2461,
+        "shortName": "DINOWITZ",
+        "sessionYear": 2025,
+        "districtCode": 81,
+        "alternate": false,
+        "memberId": 533
+    },
+    {
+        "sessionMemberId": 2527,
+        "shortName": "DIPIETRO",
+        "sessionYear": 2025,
+        "districtCode": 147,
+        "alternate": false,
+        "memberId": 656
+    },
+    {
+        "sessionMemberId": 2428,
+        "shortName": "EICHENSTEIN",
+        "sessionYear": 2025,
+        "districtCode": 48,
+        "alternate": false,
+        "memberId": 1243
+    },
+    {
+        "sessionMemberId": 1679,
+        "shortName": "ENGLEBRIGHT",
+        "sessionYear": 2021,
+        "districtCode": 4,
+        "alternate": false,
+        "memberId": 466
+    },
+    {
+        "sessionMemberId": 2454,
+        "shortName": "EPSTEIN",
+        "sessionYear": 2025,
+        "districtCode": 74,
+        "alternate": false,
+        "memberId": 1144
+    },
+    {
+        "sessionMemberId": 2128,
+        "shortName": "FAHY",
+        "sessionYear": 2023,
+        "districtCode": 109,
+        "alternate": false,
+        "memberId": 657
+    },
+    {
+        "sessionMemberId": 2441,
+        "shortName": "FALL",
+        "sessionYear": 2025,
+        "districtCode": 61,
+        "alternate": false,
+        "memberId": 1244
+    },
+    {
+        "sessionMemberId": 1683,
+        "shortName": "FERNANDEZ",
+        "sessionYear": 2021,
+        "districtCode": 80,
+        "alternate": false,
+        "memberId": 1146
+    },
+    {
+        "sessionMemberId": 1432,
+        "shortName": "FINCH",
+        "sessionYear": 2019,
+        "districtCode": 126,
+        "alternate": false,
+        "memberId": 573
+    },
+    {
+        "sessionMemberId": 2388,
+        "shortName": "FITZPATRICK",
+        "sessionYear": 2025,
+        "districtCode": 8,
+        "alternate": false,
+        "memberId": 469
+    },
+    {
+        "sessionMemberId": 2504,
+        "shortName": "FRIEND",
+        "sessionYear": 2025,
+        "districtCode": 124,
+        "alternate": false,
+        "memberId": 636
+    },
+    {
+        "sessionMemberId": 1764,
+        "shortName": "FRONTUS",
+        "sessionYear": 2021,
+        "districtCode": 46,
+        "alternate": false,
+        "memberId": 1256
+    },
+    {
+        "sessionMemberId": 1686,
+        "shortName": "GALEF",
+        "sessionYear": 2021,
+        "districtCode": 95,
+        "alternate": false,
+        "memberId": 621
+    },
+    {
+        "sessionMemberId": 1425,
+        "shortName": "GANTT",
+        "sessionYear": 2019,
+        "districtCode": 137,
+        "alternate": false,
+        "memberId": 583
+    },
+    {
+        "sessionMemberId": 1352,
+        "shortName": "GARBARINO",
+        "sessionYear": 2019,
+        "districtCode": 7,
+        "alternate": false,
+        "memberId": 658
+    },
+    {
+        "sessionMemberId": 2132,
+        "shortName": "GIGLIO JM",
+        "sessionYear": 2023,
+        "districtCode": 148,
+        "alternate": false,
+        "memberId": 599
+    },
+    {
+        "sessionMemberId": 2446,
+        "shortName": "GLICK",
+        "sessionYear": 2025,
+        "districtCode": 66,
+        "alternate": false,
+        "memberId": 519
+    },
+    {
+        "sessionMemberId": 2134,
+        "shortName": "GOODELL",
+        "sessionYear": 2023,
+        "districtCode": 150,
+        "alternate": false,
+        "memberId": 642
+    },
+    {
+        "sessionMemberId": 1690,
+        "shortName": "GOTTFRIED",
+        "sessionYear": 2021,
+        "districtCode": 75,
+        "alternate": false,
+        "memberId": 527
+    },
+    {
+        "sessionMemberId": 2401,
+        "shortName": "GRIFFIN",
+        "sessionYear": 2025,
+        "districtCode": 21,
+        "alternate": false,
+        "memberId": 1241
+    },
+    {
+        "sessionMemberId": 2135,
+        "shortName": "GUNTHER",
+        "sessionYear": 2023,
+        "districtCode": 100,
+        "alternate": false,
+        "memberId": 549
+    },
+    {
+        "sessionMemberId": 2519,
+        "shortName": "HAWLEY",
+        "sessionYear": 2025,
+        "districtCode": 139,
+        "alternate": false,
+        "memberId": 589
+    },
+    {
+        "sessionMemberId": 2463,
+        "shortName": "HEASTIE",
+        "sessionYear": 2025,
+        "districtCode": 83,
+        "alternate": false,
+        "memberId": 535
+    },
+    {
+        "sessionMemberId": 2408,
+        "shortName": "HEVESI",
+        "sessionYear": 2025,
+        "districtCode": 28,
+        "alternate": false,
+        "memberId": 488
+    },
+    {
+        "sessionMemberId": 2508,
+        "shortName": "HUNTER",
+        "sessionYear": 2025,
+        "districtCode": 128,
+        "alternate": false,
+        "memberId": 1105
+    },
+    {
+        "sessionMemberId": 2409,
+        "shortName": "HYNDMAN",
+        "sessionYear": 2025,
+        "districtCode": 29,
+        "alternate": false,
+        "memberId": 1089
+    },
+    {
+        "sessionMemberId": 2484,
+        "shortName": "JACOBSON",
+        "sessionYear": 2025,
+        "districtCode": 104,
+        "alternate": false,
+        "memberId": 1259
+    },
+    {
+        "sessionMemberId": 1427,
+        "shortName": "JAFFEE",
+        "sessionYear": 2019,
+        "districtCode": 97,
+        "alternate": false,
+        "memberId": 546
+    },
+    {
+        "sessionMemberId": 2142,
+        "shortName": "JEAN-PIERRE",
+        "sessionYear": 2023,
+        "districtCode": 11,
+        "alternate": false,
+        "memberId": 901
+    },
+    {
+        "sessionMemberId": 1342,
+        "shortName": "JOHNS",
+        "sessionYear": 2019,
+        "districtCode": 135,
+        "alternate": false,
+        "memberId": 634
+    },
+    {
+        "sessionMemberId": 2495,
+        "shortName": "JONES",
+        "sessionYear": 2025,
+        "districtCode": 115,
+        "alternate": false,
+        "memberId": 1120
+    },
+    {
+        "sessionMemberId": 2144,
+        "shortName": "JOYNER",
+        "sessionYear": 2023,
+        "districtCode": 77,
+        "alternate": false,
+        "memberId": 902
+    },
+    {
+        "sessionMemberId": 2420,
+        "shortName": "KIM",
+        "sessionYear": 2025,
+        "districtCode": 40,
+        "alternate": false,
+        "memberId": 659
+    },
+    {
+        "sessionMemberId": 1325,
+        "shortName": "KOLB",
+        "sessionYear": 2019,
+        "districtCode": 131,
+        "alternate": false,
+        "memberId": 579
+    },
+    {
+        "sessionMemberId": 1703,
+        "shortName": "LALOR",
+        "sessionYear": 2021,
+        "districtCode": 105,
+        "alternate": false,
+        "memberId": 660
+    },
+    {
+        "sessionMemberId": 2393,
+        "shortName": "LAVINE",
+        "sessionYear": 2025,
+        "districtCode": 13,
+        "alternate": false,
+        "memberId": 474
+    },
+    {
+        "sessionMemberId": 1379,
+        "shortName": "LAWRENCE",
+        "sessionYear": 2019,
+        "districtCode": 134,
+        "alternate": false,
+        "memberId": 909
+    },
+    {
+        "sessionMemberId": 1306,
+        "shortName": "LENTOL",
+        "sessionYear": 2019,
+        "districtCode": 50,
+        "alternate": false,
+        "memberId": 503
+    },
+    {
+        "sessionMemberId": 1323,
+        "shortName": "LIFTON",
+        "sessionYear": 2019,
+        "districtCode": 125,
+        "alternate": false,
+        "memberId": 575
+    },
+    {
+        "sessionMemberId": 1237,
+        "shortName": "LIPETRI",
+        "sessionYear": 2019,
+        "districtCode": 9,
+        "alternate": false,
+        "memberId": 1239
+    },
+    {
+        "sessionMemberId": 2503,
+        "shortName": "LUPARDO",
+        "sessionYear": 2025,
+        "districtCode": 123,
+        "alternate": false,
+        "memberId": 576
+    },
+    {
+        "sessionMemberId": 2509,
+        "shortName": "MAGNARELLI",
+        "sessionYear": 2025,
+        "districtCode": 129,
+        "alternate": false,
+        "memberId": 570
+    },
+    {
+        "sessionMemberId": 1334,
+        "shortName": "MALLIOTAKIS",
+        "sessionYear": 2019,
+        "districtCode": 64,
+        "alternate": false,
+        "memberId": 615
+    },
+    {
+        "sessionMemberId": 2510,
+        "shortName": "MANKTELOW",
+        "sessionYear": 2025,
+        "districtCode": 130,
+        "alternate": false,
+        "memberId": 1251
+    },
+    {
+        "sessionMemberId": 2488,
+        "shortName": "MCDONALD",
+        "sessionYear": 2025,
+        "districtCode": 108,
+        "alternate": false,
+        "memberId": 662
+    },
+    {
+        "sessionMemberId": 2394,
+        "shortName": "MCDONOUGH",
+        "sessionYear": 2025,
+        "districtCode": 14,
+        "alternate": false,
+        "memberId": 480
+    },
+    {
+        "sessionMemberId": 2526,
+        "shortName": "MCMAHON",
+        "sessionYear": 2025,
+        "districtCode": 146,
+        "alternate": false,
+        "memberId": 1255
+    },
+    {
+        "sessionMemberId": 2517,
+        "shortName": "MEEKS",
+        "sessionYear": 2025,
+        "districtCode": 137,
+        "alternate": false,
+        "memberId": 1462
+    },
+    {
+        "sessionMemberId": 2397,
+        "shortName": "MIKULIN",
+        "sessionYear": 2025,
+        "districtCode": 17,
+        "alternate": false,
+        "memberId": 1150
+    },
+    {
+        "sessionMemberId": 2502,
+        "shortName": "MILLER",
+        "sessionYear": 2025,
+        "districtCode": 122,
+        "alternate": false,
+        "memberId": 1125
+    },
+    {
+        "sessionMemberId": 1713,
+        "shortName": "MILLER M",
+        "sessionYear": 2021,
+        "districtCode": 20,
+        "alternate": false,
+        "memberId": 1115
+    },
+    {
+        "sessionMemberId": 1438,
+        "shortName": "MILLER MG",
+        "sessionYear": 2019,
+        "districtCode": 38,
+        "alternate": false,
+        "memberId": 492
+    },
+    {
+        "sessionMemberId": 1714,
+        "shortName": "MONTESANO",
+        "sessionYear": 2021,
+        "districtCode": 15,
+        "alternate": false,
+        "memberId": 476
+    },
+    {
+        "sessionMemberId": 2525,
+        "shortName": "MORINELLO",
+        "sessionYear": 2025,
+        "districtCode": 145,
+        "alternate": false,
+        "memberId": 1135
+    },
+    {
+        "sessionMemberId": 1356,
+        "shortName": "MOSLEY",
+        "sessionYear": 2019,
+        "districtCode": 57,
+        "alternate": false,
+        "memberId": 663
+    },
+    {
+        "sessionMemberId": 1716,
+        "shortName": "NIOU",
+        "sessionYear": 2021,
+        "districtCode": 65,
+        "alternate": false,
+        "memberId": 1132
+    },
+    {
+        "sessionMemberId": 1717,
+        "shortName": "NOLAN",
+        "sessionYear": 2021,
+        "districtCode": 37,
+        "alternate": false,
+        "memberId": 491
+    },
+    {
+        "sessionMemberId": 2156,
+        "shortName": "NORRIS",
+        "sessionYear": 2023,
+        "districtCode": 144,
+        "alternate": false,
+        "memberId": 1126
+    },
+    {
+        "sessionMemberId": 2157,
+        "shortName": "O'DONNELL",
+        "sessionYear": 2023,
+        "districtCode": 69,
+        "alternate": false,
+        "memberId": 522
+    },
+    {
+        "sessionMemberId": 1307,
+        "shortName": "ORTIZ",
+        "sessionYear": 2019,
+        "districtCode": 51,
+        "alternate": false,
+        "memberId": 504
+    },
+    {
+        "sessionMemberId": 2471,
+        "shortName": "OTIS",
+        "sessionYear": 2025,
+        "districtCode": 91,
+        "alternate": false,
+        "memberId": 665
+    },
+    {
+        "sessionMemberId": 2512,
+        "shortName": "PALMESANO",
+        "sessionYear": 2025,
+        "districtCode": 132,
+        "alternate": false,
+        "memberId": 635
+    },
+    {
+        "sessionMemberId": 1358,
+        "shortName": "PALUMBO",
+        "sessionYear": 2019,
+        "districtCode": 2,
+        "alternate": false,
+        "memberId": 666
+    },
+    {
+        "sessionMemberId": 2468,
+        "shortName": "PAULIN",
+        "sessionYear": 2025,
+        "districtCode": 88,
+        "alternate": false,
+        "memberId": 540
+    },
+    {
+        "sessionMemberId": 2521,
+        "shortName": "PEOPLES-STOKES",
+        "sessionYear": 2025,
+        "districtCode": 141,
+        "alternate": false,
+        "memberId": 591
+    },
+    {
+        "sessionMemberId": 1724,
+        "shortName": "PERRY",
+        "sessionYear": 2021,
+        "districtCode": 58,
+        "alternate": false,
+        "memberId": 511
+    },
+    {
+        "sessionMemberId": 2403,
+        "shortName": "PHEFFER AMATO",
+        "sessionYear": 2025,
+        "districtCode": 23,
+        "alternate": false,
+        "memberId": 1131
+    },
+    {
+        "sessionMemberId": 1726,
+        "shortName": "PICHARDO",
+        "sessionYear": 2021,
+        "districtCode": 86,
+        "alternate": false,
+        "memberId": 667
+    },
+    {
+        "sessionMemberId": 2469,
+        "shortName": "PRETLOW",
+        "sessionYear": 2025,
+        "districtCode": 89,
+        "alternate": false,
+        "memberId": 539
+    },
+    {
+        "sessionMemberId": 1728,
+        "shortName": "QUART",
+        "sessionYear": 2021,
+        "districtCode": 73,
+        "alternate": false,
+        "memberId": 618
+    },
+    {
+        "sessionMemberId": 2399,
+        "shortName": "RA",
+        "sessionYear": 2025,
+        "districtCode": 19,
+        "alternate": false,
+        "memberId": 608
+    },
+    {
+        "sessionMemberId": 1424,
+        "shortName": "RAIA",
+        "sessionYear": 2019,
+        "districtCode": 12,
+        "alternate": false,
+        "memberId": 462
+    },
+    {
+        "sessionMemberId": 2386,
+        "shortName": "RAMOS",
+        "sessionYear": 2025,
+        "districtCode": 6,
+        "alternate": false,
+        "memberId": 468
+    },
+    {
+        "sessionMemberId": 2442,
+        "shortName": "REILLY",
+        "sessionYear": 2025,
+        "districtCode": 62,
+        "alternate": false,
+        "memberId": 1245
+    },
+    {
+        "sessionMemberId": 2467,
+        "shortName": "REYES",
+        "sessionYear": 2025,
+        "districtCode": 87,
+        "alternate": false,
+        "memberId": 1257
+    },
+    {
+        "sessionMemberId": 1733,
+        "shortName": "RICHARDSON",
+        "sessionYear": 2021,
+        "districtCode": 43,
+        "alternate": false,
+        "memberId": 912
+    },
+    {
+        "sessionMemberId": 1734,
+        "shortName": "RIVERA J",
+        "sessionYear": 2021,
+        "districtCode": 78,
+        "alternate": false,
+        "memberId": 530
+    },
+    {
+        "sessionMemberId": 1735,
+        "shortName": "RODRIGUEZ",
+        "sessionYear": 2021,
+        "districtCode": 68,
+        "alternate": false,
+        "memberId": 616
+    },
+    {
+        "sessionMemberId": 1251,
+        "shortName": "ROMEO",
+        "sessionYear": 2019,
+        "districtCode": 136,
+        "alternate": false,
+        "memberId": 1253
+    },
+    {
+        "sessionMemberId": 2447,
+        "shortName": "ROSENTHAL",
+        "sessionYear": 2025,
+        "districtCode": 67,
+        "alternate": false,
+        "memberId": 520
+    },
+    {
+        "sessionMemberId": 2169,
+        "shortName": "ROSENTHAL D",
+        "sessionYear": 2023,
+        "districtCode": 27,
+        "alternate": false,
+        "memberId": 1139
+    },
+    {
+        "sessionMemberId": 2405,
+        "shortName": "ROZIC",
+        "sessionYear": 2025,
+        "districtCode": 25,
+        "alternate": false,
+        "memberId": 669
+    },
+    {
+        "sessionMemberId": 1345,
+        "shortName": "RYAN",
+        "sessionYear": 2019,
+        "districtCode": 149,
+        "alternate": false,
+        "memberId": 638
+    },
+    {
+        "sessionMemberId": 1297,
+        "shortName": "SALADINO",
+        "sessionYear": 2019,
+        "districtCode": 9,
+        "alternate": false,
+        "memberId": 473
+    },
+    {
+        "sessionMemberId": 1739,
+        "shortName": "SALKA",
+        "sessionYear": 2021,
+        "districtCode": 121,
+        "alternate": false,
+        "memberId": 1250
+    },
+    {
+        "sessionMemberId": 2491,
+        "shortName": "SANTABARBARA",
+        "sessionYear": 2025,
+        "districtCode": 111,
+        "alternate": false,
+        "memberId": 670
+    },
+    {
+        "sessionMemberId": 2470,
+        "shortName": "SAYEGH",
+        "sessionYear": 2025,
+        "districtCode": 90,
+        "alternate": false,
+        "memberId": 1258
+    },
+    {
+        "sessionMemberId": 1327,
+        "shortName": "SCHIMMINGER",
+        "sessionYear": 2019,
+        "districtCode": 140,
+        "alternate": false,
+        "memberId": 590
+    },
+    {
+        "sessionMemberId": 1742,
+        "shortName": "SCHMITT",
+        "sessionYear": 2021,
+        "districtCode": 99,
+        "alternate": false,
+        "memberId": 1246
+    },
+    {
+        "sessionMemberId": 2456,
+        "shortName": "SEAWRIGHT",
+        "sessionYear": 2025,
+        "districtCode": 76,
+        "alternate": false,
+        "memberId": 906
+    },
+    {
+        "sessionMemberId": 2432,
+        "shortName": "SIMON",
+        "sessionYear": 2025,
+        "districtCode": 52,
+        "alternate": false,
+        "memberId": 907
+    },
+    {
+        "sessionMemberId": 1333,
+        "shortName": "SIMOTAS",
+        "sessionYear": 2019,
+        "districtCode": 36,
+        "alternate": false,
+        "memberId": 612
+    },
+    {
+        "sessionMemberId": 2385,
+        "shortName": "SMITH",
+        "sessionYear": 2025,
+        "districtCode": 5,
+        "alternate": false,
+        "memberId": 1148
+    },
+    {
+        "sessionMemberId": 2498,
+        "shortName": "SMULLEN",
+        "sessionYear": 2025,
+        "districtCode": 118,
+        "alternate": false,
+        "memberId": 1248
+    },
+    {
+        "sessionMemberId": 2402,
+        "shortName": "SOLAGES",
+        "sessionYear": 2025,
+        "districtCode": 22,
+        "alternate": false,
+        "memberId": 673
+    },
+    {
+        "sessionMemberId": 1363,
+        "shortName": "STEC",
+        "sessionYear": 2019,
+        "districtCode": 114,
+        "alternate": false,
+        "memberId": 674
+    },
+    {
+        "sessionMemberId": 2490,
+        "shortName": "STECK",
+        "sessionYear": 2025,
+        "districtCode": 110,
+        "alternate": false,
+        "memberId": 675
+    },
+    {
+        "sessionMemberId": 2390,
+        "shortName": "STERN",
+        "sessionYear": 2025,
+        "districtCode": 10,
+        "alternate": false,
+        "memberId": 1147
+    },
+    {
+        "sessionMemberId": 2507,
+        "shortName": "STIRPE",
+        "sessionYear": 2025,
+        "districtCode": 127,
+        "alternate": false,
+        "memberId": 571
+    },
+    {
+        "sessionMemberId": 2482,
+        "shortName": "TAGUE",
+        "sessionYear": 2025,
+        "districtCode": 102,
+        "alternate": false,
+        "memberId": 1152
+    },
+    {
+        "sessionMemberId": 2451,
+        "shortName": "TAYLOR",
+        "sessionYear": 2025,
+        "districtCode": 71,
+        "alternate": false,
+        "memberId": 1141
+    },
+    {
+        "sessionMemberId": 2183,
+        "shortName": "THIELE",
+        "sessionYear": 2023,
+        "districtCode": 1,
+        "alternate": false,
+        "memberId": 464
+    },
+    {
+        "sessionMemberId": 1291,
+        "shortName": "TITUS",
+        "sessionYear": 2019,
+        "districtCode": 31,
+        "alternate": false,
+        "memberId": 456
+    },
+    {
+        "sessionMemberId": 2413,
+        "shortName": "VANEL",
+        "sessionYear": 2025,
+        "districtCode": 33,
+        "alternate": false,
+        "memberId": 1118
+    },
+    {
+        "sessionMemberId": 1755,
+        "shortName": "WALCZYK",
+        "sessionYear": 2021,
+        "districtCode": 116,
+        "alternate": false,
+        "memberId": 1247
+    },
+    {
+        "sessionMemberId": 2435,
+        "shortName": "WALKER",
+        "sessionYear": 2025,
+        "districtCode": 55,
+        "alternate": false,
+        "memberId": 896
+    },
+    {
+        "sessionMemberId": 2186,
+        "shortName": "WALLACE",
+        "sessionYear": 2023,
+        "districtCode": 143,
+        "alternate": false,
+        "memberId": 1133
+    },
+    {
+        "sessionMemberId": 2492,
+        "shortName": "WALSH",
+        "sessionYear": 2025,
+        "districtCode": 112,
+        "alternate": false,
+        "memberId": 1127
+    },
+    {
+        "sessionMemberId": 1346,
+        "shortName": "WALTER",
+        "sessionYear": 2019,
+        "districtCode": 146,
+        "alternate": false,
+        "memberId": 641
+    },
+    {
+        "sessionMemberId": 2188,
+        "shortName": "WEINSTEIN",
+        "sessionYear": 2023,
+        "districtCode": 41,
+        "alternate": false,
+        "memberId": 494
+    },
+    {
+        "sessionMemberId": 2404,
+        "shortName": "WEPRIN",
+        "sessionYear": 2025,
+        "districtCode": 24,
+        "alternate": false,
+        "memberId": 484
+    },
+    {
+        "sessionMemberId": 2439,
+        "shortName": "WILLIAMS",
+        "sessionYear": 2025,
+        "districtCode": 59,
+        "alternate": false,
+        "memberId": 1116
+    },
+    {
+        "sessionMemberId": 2493,
+        "shortName": "WOERNER",
+        "sessionYear": 2025,
+        "districtCode": 113,
+        "alternate": false,
+        "memberId": 886
+    },
+    {
+        "sessionMemberId": 1404,
+        "shortName": "WRIGHT",
+        "sessionYear": 2019,
+        "districtCode": 56,
+        "alternate": false,
+        "memberId": 1134
+    },
+    {
+        "sessionMemberId": 2192,
+        "shortName": "ZEBROWSKI",
+        "sessionYear": 2023,
+        "districtCode": 96,
+        "alternate": false,
+        "memberId": 545
+    },
+    {
+        "sessionMemberId": 2501,
+        "shortName": "ANGELINO",
+        "sessionYear": 2025,
+        "districtCode": 121,
+        "alternate": false,
+        "memberId": 1481
+    },
+    {
+        "sessionMemberId": 2395,
+        "shortName": "BLUMENCRANZ",
+        "sessionYear": 2025,
+        "districtCode": 15,
+        "alternate": false,
+        "memberId": 1511
+    },
+    {
+        "sessionMemberId": 2400,
+        "shortName": "BROWN E",
+        "sessionYear": 2025,
+        "districtCode": 20,
+        "alternate": false,
+        "memberId": 1509
+    },
+    {
+        "sessionMemberId": 2473,
+        "shortName": "BURDICK",
+        "sessionYear": 2025,
+        "districtCode": 93,
+        "alternate": false,
+        "memberId": 1478
+    },
+    {
+        "sessionMemberId": 2438,
+        "shortName": "CHANDLER-WATERMAN",
+        "sessionYear": 2025,
+        "districtCode": 58,
+        "alternate": false,
+        "memberId": 1510
+    },
+    {
+        "sessionMemberId": 2520,
+        "shortName": "CONRAD",
+        "sessionYear": 2025,
+        "districtCode": 140,
+        "alternate": false,
+        "memberId": 1487
+    },
+    {
+        "sessionMemberId": 2423,
+        "shortName": "CUNNINGHAM",
+        "sessionYear": 2025,
+        "districtCode": 43,
+        "alternate": false,
+        "memberId": 1508
+    },
+    {
+        "sessionMemberId": 2452,
+        "shortName": "DE LOS SANTOS",
+        "sessionYear": 2025,
+        "districtCode": 72,
+        "alternate": false,
+        "memberId": 1506
+    },
+    {
+        "sessionMemberId": 2389,
+        "shortName": "DURSO",
+        "sessionYear": 2025,
+        "districtCode": 9,
+        "alternate": false,
+        "memberId": 1466
+    },
+    {
+        "sessionMemberId": 2437,
+        "shortName": "FORREST",
+        "sessionYear": 2025,
+        "districtCode": 57,
+        "alternate": false,
+        "memberId": 1474
+    },
+    {
+        "sessionMemberId": 2430,
+        "shortName": "GALLAGHER",
+        "sessionYear": 2025,
+        "districtCode": 50,
+        "alternate": false,
+        "memberId": 1471
+    },
+    {
+        "sessionMemberId": 2511,
+        "shortName": "GALLAHAN",
+        "sessionYear": 2025,
+        "districtCode": 131,
+        "alternate": false,
+        "memberId": 1484
+    },
+    {
+        "sessionMemberId": 2387,
+        "shortName": "GANDOLFO",
+        "sessionYear": 2025,
+        "districtCode": 7,
+        "alternate": false,
+        "memberId": 1465
+    },
+    {
+        "sessionMemberId": 2448,
+        "shortName": "GIBBS",
+        "sessionYear": 2025,
+        "districtCode": 68,
+        "alternate": false,
+        "memberId": 1505
+    },
+    {
+        "sessionMemberId": 2382,
+        "shortName": "GIGLIO",
+        "sessionYear": 2025,
+        "districtCode": 2,
+        "alternate": false,
+        "memberId": 1464
+    },
+    {
+        "sessionMemberId": 2414,
+        "shortName": "GONZALEZ-ROJAS",
+        "sessionYear": 2025,
+        "districtCode": 34,
+        "alternate": false,
+        "memberId": 1468
+    },
+    {
+        "sessionMemberId": 2459,
+        "shortName": "JACKSON",
+        "sessionYear": 2025,
+        "districtCode": 79,
+        "alternate": false,
+        "memberId": 1476
+    },
+    {
+        "sessionMemberId": 2514,
+        "shortName": "JENSEN",
+        "sessionYear": 2025,
+        "districtCode": 134,
+        "alternate": false,
+        "memberId": 1485
+    },
+    {
+        "sessionMemberId": 2505,
+        "shortName": "KELLES",
+        "sessionYear": 2025,
+        "districtCode": 125,
+        "alternate": false,
+        "memberId": 1482
+    },
+    {
+        "sessionMemberId": 1785,
+        "shortName": "LAWLER",
+        "sessionYear": 2021,
+        "districtCode": 97,
+        "alternate": false,
+        "memberId": 1479
+    },
+    {
+        "sessionMemberId": 2506,
+        "shortName": "LEMONDES",
+        "sessionYear": 2025,
+        "districtCode": 126,
+        "alternate": false,
+        "memberId": 1483
+    },
+    {
+        "sessionMemberId": 2440,
+        "shortName": "LUCAS",
+        "sessionYear": 2025,
+        "districtCode": 60,
+        "alternate": false,
+        "memberId": 1507
+    },
+    {
+        "sessionMemberId": 2515,
+        "shortName": "LUNSFORD",
+        "sessionYear": 2025,
+        "districtCode": 135,
+        "alternate": false,
+        "memberId": 1486
+    },
+    {
+        "sessionMemberId": 2416,
+        "shortName": "MAMDANI",
+        "sessionYear": 2025,
+        "districtCode": 36,
+        "alternate": false,
+        "memberId": 1469
+    },
+    {
+        "sessionMemberId": 2431,
+        "shortName": "MITAYNES",
+        "sessionYear": 2025,
+        "districtCode": 51,
+        "alternate": false,
+        "memberId": 1472
+    },
+    {
+        "sessionMemberId": 2418,
+        "shortName": "RAJKUMAR",
+        "sessionYear": 2025,
+        "districtCode": 38,
+        "alternate": false,
+        "memberId": 1470
+    },
+    {
+        "sessionMemberId": 2529,
+        "shortName": "RIVERA",
+        "sessionYear": 2025,
+        "districtCode": 149,
+        "alternate": false,
+        "memberId": 1488
+    },
+    {
+        "sessionMemberId": 2464,
+        "shortName": "SEPTIMO",
+        "sessionYear": 2025,
+        "districtCode": 84,
+        "alternate": false,
+        "memberId": 1477
+    },
+    {
+        "sessionMemberId": 2198,
+        "shortName": "SILLITTI",
+        "sessionYear": 2023,
+        "districtCode": 16,
+        "alternate": false,
+        "memberId": 1467
+    },
+    {
+        "sessionMemberId": 2494,
+        "shortName": "SIMPSON",
+        "sessionYear": 2025,
+        "districtCode": 114,
+        "alternate": false,
+        "memberId": 1480
+    },
+    {
+        "sessionMemberId": 2444,
+        "shortName": "TANNOUSIS",
+        "sessionYear": 2025,
+        "districtCode": 64,
+        "alternate": false,
+        "memberId": 1475
+    },
+    {
+        "sessionMemberId": 2466,
+        "shortName": "TAPIA",
+        "sessionYear": 2025,
+        "districtCode": 86,
+        "alternate": false,
+        "memberId": 1503
+    },
+    {
+        "sessionMemberId": 2436,
+        "shortName": "ZINERMAN",
+        "sessionYear": 2025,
+        "districtCode": 56,
+        "alternate": false,
+        "memberId": 1473
+    },
+    {
+        "sessionMemberId": 2458,
+        "shortName": "ALVAREZ",
+        "sessionYear": 2025,
+        "districtCode": 78,
+        "alternate": false,
+        "memberId": 1533
+    },
+    {
+        "sessionMemberId": 2081,
+        "shortName": "ARDILA",
+        "sessionYear": 2023,
+        "districtCode": 37,
+        "alternate": false,
+        "memberId": 1526
+    },
+    {
+        "sessionMemberId": 2485,
+        "shortName": "BEEPHAN",
+        "sessionYear": 2025,
+        "districtCode": 105,
+        "alternate": false,
+        "memberId": 1542
+    },
+    {
+        "sessionMemberId": 2487,
+        "shortName": "BENDETT",
+        "sessionYear": 2025,
+        "districtCode": 107,
+        "alternate": false,
+        "memberId": 1543
+    },
+    {
+        "sessionMemberId": 2407,
+        "shortName": "BERGER",
+        "sessionYear": 2025,
+        "districtCode": 27,
+        "alternate": false,
+        "memberId": 1545
+    },
+    {
+        "sessionMemberId": 2453,
+        "shortName": "BORES",
+        "sessionYear": 2025,
+        "districtCode": 73,
+        "alternate": false,
+        "memberId": 1531
+    },
+    {
+        "sessionMemberId": 2531,
+        "shortName": "BROOK-KRASNY",
+        "sessionYear": 2025,
+        "districtCode": 46,
+        "alternate": false,
+        "memberId": 499
+    },
+    {
+        "sessionMemberId": 2476,
+        "shortName": "CARROLL P",
+        "sessionYear": 2025,
+        "districtCode": 96,
+        "alternate": false,
+        "memberId": 1547
+    },
+    {
+        "sessionMemberId": 2429,
+        "shortName": "CHANG",
+        "sessionYear": 2025,
+        "districtCode": 49,
+        "alternate": false,
+        "memberId": 1528
+    },
+    {
+        "sessionMemberId": 2457,
+        "shortName": "DAIS",
+        "sessionYear": 2025,
+        "districtCode": 77,
+        "alternate": false,
+        "memberId": 1546
+    },
+    {
+        "sessionMemberId": 2479,
+        "shortName": "EACHUS",
+        "sessionYear": 2025,
+        "districtCode": 99,
+        "alternate": false,
+        "memberId": 1539
+    },
+    {
+        "sessionMemberId": 2079,
+        "shortName": "FLOOD",
+        "sessionYear": 2023,
+        "districtCode": 4,
+        "alternate": false,
+        "memberId": 1524
+    },
+    {
+        "sessionMemberId": 2496,
+        "shortName": "GRAY",
+        "sessionYear": 2025,
+        "districtCode": 116,
+        "alternate": false,
+        "memberId": 1544
+    },
+    {
+        "sessionMemberId": 2445,
+        "shortName": "LEE",
+        "sessionYear": 2025,
+        "districtCode": 65,
+        "alternate": false,
+        "memberId": 1530
+    },
+    {
+        "sessionMemberId": 2475,
+        "shortName": "LEVENBERG",
+        "sessionYear": 2025,
+        "districtCode": 95,
+        "alternate": false,
+        "memberId": 1537
+    },
+    {
+        "sessionMemberId": 2481,
+        "shortName": "MAHER",
+        "sessionYear": 2025,
+        "districtCode": 101,
+        "alternate": false,
+        "memberId": 1540
+    },
+    {
+        "sessionMemberId": 2093,
+        "shortName": "MCGOWAN",
+        "sessionYear": 2023,
+        "districtCode": 97,
+        "alternate": false,
+        "memberId": 1538
+    },
+    {
+        "sessionMemberId": 2425,
+        "shortName": "NOVAKHOV",
+        "sessionYear": 2025,
+        "districtCode": 45,
+        "alternate": false,
+        "memberId": 1527
+    },
+    {
+        "sessionMemberId": 2443,
+        "shortName": "PIROZZOLO",
+        "sessionYear": 2025,
+        "districtCode": 63,
+        "alternate": false,
+        "memberId": 1529
+    },
+    {
+        "sessionMemberId": 2410,
+        "shortName": "RAGA",
+        "sessionYear": 2025,
+        "districtCode": 30,
+        "alternate": false,
+        "memberId": 1525
+    },
+    {
+        "sessionMemberId": 2472,
+        "shortName": "SHIMSKY",
+        "sessionYear": 2025,
+        "districtCode": 92,
+        "alternate": false,
+        "memberId": 1535
+    },
+    {
+        "sessionMemberId": 2483,
+        "shortName": "SHRESTHA",
+        "sessionYear": 2025,
+        "districtCode": 103,
+        "alternate": false,
+        "memberId": 1541
+    },
+    {
+        "sessionMemberId": 2455,
+        "shortName": "SIMONE",
+        "sessionYear": 2025,
+        "districtCode": 75,
+        "alternate": false,
+        "memberId": 1532
+    },
+    {
+        "sessionMemberId": 2474,
+        "shortName": "SLATER",
+        "sessionYear": 2025,
+        "districtCode": 94,
+        "alternate": false,
+        "memberId": 1536
+    },
+    {
+        "sessionMemberId": 2465,
+        "shortName": "TORRES",
+        "sessionYear": 2025,
+        "districtCode": 85,
+        "alternate": false,
+        "memberId": 1548
+    },
+    {
+        "sessionMemberId": 2460,
+        "shortName": "ZACCARO",
+        "sessionYear": 2025,
+        "districtCode": 80,
+        "alternate": false,
+        "memberId": 1534
+    },
+    {
+        "sessionMemberId": 2513,
+        "shortName": "BAILEY",
+        "sessionYear": 2025,
+        "districtCode": 133,
+        "alternate": false,
+        "memberId": 1566
+    },
+    {
+        "sessionMemberId": 2524,
+        "shortName": "BOLOGNA",
+        "sessionYear": 2025,
+        "districtCode": 144,
+        "alternate": false,
+        "memberId": 1568
+    },
+    {
+        "sessionMemberId": 2398,
+        "shortName": "BURROUGHS",
+        "sessionYear": 2025,
+        "districtCode": 18,
+        "alternate": false,
+        "memberId": 1557
+    },
+    {
+        "sessionMemberId": 2534,
+        "shortName": "CASHMAN",
+        "sessionYear": 2025,
+        "districtCode": 115,
+        "alternate": false,
+        "memberId": 1573
+    },
+    {
+        "sessionMemberId": 2523,
+        "shortName": "CHLUDZINSKI",
+        "sessionYear": 2025,
+        "districtCode": 143,
+        "alternate": false,
+        "memberId": 1567
+    },
+    {
+        "sessionMemberId": 2415,
+        "shortName": "HOOKS",
+        "sessionYear": 2025,
+        "districtCode": 35,
+        "alternate": false,
+        "memberId": 1558
+    },
+    {
+        "sessionMemberId": 2384,
+        "shortName": "KASSAY",
+        "sessionYear": 2025,
+        "districtCode": 4,
+        "alternate": false,
+        "memberId": 1554
+    },
+    {
+        "sessionMemberId": 2480,
+        "shortName": "KAY",
+        "sessionYear": 2025,
+        "districtCode": 100,
+        "alternate": false,
+        "memberId": 1564
+    },
+    {
+        "sessionMemberId": 2449,
+        "shortName": "LASHER",
+        "sessionYear": 2025,
+        "districtCode": 69,
+        "alternate": false,
+        "memberId": 1561
+    },
+    {
+        "sessionMemberId": 2530,
+        "shortName": "MOLITOR",
+        "sessionYear": 2025,
+        "districtCode": 150,
+        "alternate": false,
+        "memberId": 1570
+    },
+    {
+        "sessionMemberId": 2396,
+        "shortName": "NORBER",
+        "sessionYear": 2025,
+        "districtCode": 16,
+        "alternate": false,
+        "memberId": 1556
+    },
+    {
+        "sessionMemberId": 2391,
+        "shortName": "O'PHARROW",
+        "sessionYear": 2025,
+        "districtCode": 11,
+        "alternate": false,
+        "memberId": 1555
+    },
+    {
+        "sessionMemberId": 2489,
+        "shortName": "ROMERO",
+        "sessionYear": 2025,
+        "districtCode": 109,
+        "alternate": false,
+        "memberId": 1565
+    },
+    {
+        "sessionMemberId": 2381,
+        "shortName": "SCHIAVONI",
+        "sessionYear": 2025,
+        "districtCode": 1,
+        "alternate": false,
+        "memberId": 1553
+    },
+    {
+        "sessionMemberId": 2528,
+        "shortName": "SEMPOLINSKI",
+        "sessionYear": 2025,
+        "districtCode": 148,
+        "alternate": false,
+        "memberId": 1569
+    },
+    {
+        "sessionMemberId": 2417,
+        "shortName": "VALDEZ",
+        "sessionYear": 2025,
+        "districtCode": 37,
+        "alternate": false,
+        "memberId": 1559
+    },
+    {
+        "sessionMemberId": 2477,
+        "shortName": "WIEDER",
+        "sessionYear": 2025,
+        "districtCode": 97,
+        "alternate": false,
+        "memberId": 1563
+    },
+    {
+        "sessionMemberId": 2450,
+        "shortName": "WRIGHT",
+        "sessionYear": 2025,
+        "districtCode": 70,
+        "alternate": false,
+        "memberId": 1562
+    },
+    {
+        "sessionMemberId": 2421,
+        "shortName": "YEGER",
+        "sessionYear": 2025,
+        "districtCode": 41,
+        "alternate": false,
+        "memberId": 1560
+    }
+]
