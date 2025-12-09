@@ -227,8 +227,6 @@ Special thanks to the New York State Assembly for providing public access to leg
 
 **Project Maintainer**: Nick Gutin
 
-**Documentation**: _
-
 
 ---
 
