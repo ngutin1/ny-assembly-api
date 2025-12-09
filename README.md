@@ -2,7 +2,7 @@
 
 A RESTful API providing access to New York State Assembly floor transcripts, member information, parsed segments, and interaction analysis.
 
-[![Documentation](https://img.shields.io/badge/docs-read%20the%20docs-blue)](https://ny-assembly-api-docs.readthedocs.io)
+[![Documentation](https://img.shields.io/badge/docs-read%20the%20docs-blue)]https://ny-assembly-api-docs.readthedocs.io/en/latest/)
 [![API Status](https://img.shields.io/badge/API-online-success)](http://nyassembly.duckdns.org:8888)
 
 ## Live API
@@ -11,7 +11,7 @@ A RESTful API providing access to New York State Assembly floor transcripts, mem
 
 **Demo API Key**: `drt7AfZlJqLxrVtNXBNxSd03rJzqNXkPinTDWEfn0IU`
 
-**Documentation**: ___
+**Documentation**: 'https://ny-assembly-api-docs.readthedocs.io/en/latest/'
 
 ## Quick Start
 
