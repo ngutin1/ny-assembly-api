@@ -9,7 +9,7 @@ A RESTful API providing access to New York State Assembly floor transcripts, mem
 
 **Demo API Key**: `drt7AfZlJqLxrVtNXBNxSd03rJzqNXkPinTDWEfn0IU`
 
-**Documentation**: [documentation][https://ny-assembly-api-docs.readthedocs.io/en/latest/]
+**Documentation**: https://ny-assembly-api-docs.readthedocs.io/en/latest/
 
 ## Quick Start
 
